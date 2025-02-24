@@ -2,4 +2,5 @@
 #crear texto
 if[!-f"tareas.txt"];then
 	touch tareas.txt
-if
+#segunda tarea
+fi
